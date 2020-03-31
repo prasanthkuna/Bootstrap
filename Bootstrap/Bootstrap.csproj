@@ -78,6 +78,7 @@
     <Content Include="bootstrap\bootstrap-4.4.1-dist\js\bootstrap.js" />
     <Content Include="bootstrap\bootstrap-4.4.1-dist\js\bootstrap.min.js" />
     <Content Include="css\CustomStyles.css" />
+    <Content Include="html\Paragraphs.html" />
     <Content Include="html\Topography.html" />
     <Content Include="html\ResponsiveUtilityClasses.html" />
     <Content Include="html\BootstrapGrid.html" />
