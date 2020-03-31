@@ -1,7 +1,8 @@
 ﻿.customDiv {
-    margin: 3px;
-    min-height: 300px;
+    margin: 10px;
+    min-height: 50px;
     background-color: silver;
     text-align: center;
-    font-size: large
+    font-size: large;
+    padding: 10px;
 }
