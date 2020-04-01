@@ -80,6 +80,7 @@
     <Content Include="css\CustomStyles.css" />
     <Content Include="html\BlockquotesAndLists.html" />
     <Content Include="html\ButtonClasses.html" />
+    <Content Include="html\Dropdown.html" />
     <Content Include="html\TableClasses.html" />
     <Content Include="html\CodeBlocks.html" />
     <Content Include="html\ListGroups.html" />
