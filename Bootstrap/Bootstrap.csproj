@@ -79,6 +79,7 @@
     <Content Include="bootstrap\bootstrap-4.4.1-dist\js\bootstrap.min.js" />
     <Content Include="css\CustomStyles.css" />
     <Content Include="html\BlockquotesAndLists.html" />
+    <Content Include="html\FormControls.html" />
     <Content Include="html\Forms.html" />
     <Content Include="html\ButtonClasses.html" />
     <Content Include="html\Dropdown.html" />
