@@ -79,6 +79,7 @@
     <Content Include="bootstrap\bootstrap-4.4.1-dist\js\bootstrap.min.js" />
     <Content Include="css\CustomStyles.css" />
     <Content Include="html\BlockquotesAndLists.html" />
+    <Content Include="html\Badges.html" />
     <Content Include="html\Pagination.html" />
     <Content Include="html\NavComponent.html" />
     <Content Include="html\InputGroupButton.html" />
