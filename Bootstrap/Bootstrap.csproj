@@ -80,6 +80,7 @@
     <Content Include="css\CustomStyles.css" />
     <Content Include="html\BlockquotesAndLists.html" />
     <Content Include="html\Badges.html" />
+    <Content Include="html\Modal.html" />
     <Content Include="html\Collapse.html" />
     <Content Include="html\Jumbotron.html" />
     <Content Include="html\ProgressBar.html" />
